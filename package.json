@@ -32,9 +32,12 @@
 		"vite": "^6.2.5"
 	},
 	"dependencies": {
+		"@iconify/svelte": "^4.2.0",
 		"@master/css": "^2.0.0-rc.62",
 		"@master/css-server": "^2.0.0-rc.62",
 		"@master/css.svelte": "^2.0.0-rc.62",
-		"@master/normal.css": "^3.1.0"
+		"@master/normal.css": "^3.1.0",
+		"@sveltejs/adapter-cloudflare": "^7.0.1",
+		"uuid": "^11.1.0"
 	}
 }
