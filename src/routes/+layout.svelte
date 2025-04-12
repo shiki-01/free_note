@@ -6,7 +6,7 @@
 </script>
 
 <CSSRuntimeProvider {config}>
-<main class="w:100dvw h:100dvh">
+<main class="w:100dvw h:100dvh overflow:hidden">
     {@render children?.()}
 </main>
 </CSSRuntimeProvider>
